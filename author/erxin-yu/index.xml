@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Erxin Yu | Academic</title>
+    <link>https://WinnieHAN.github.io/author/erxin-yu/</link>
+      <atom:link href="https://WinnieHAN.github.io/author/erxin-yu/index.xml" rel="self" type="application/rss+xml" />
+    <description>Erxin Yu</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://WinnieHAN.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Erxin Yu</title>
+      <link>https://WinnieHAN.github.io/author/erxin-yu/</link>
+    </image>
+    
+    <item>
+      <title>ToHRE: A Top-Down Classification Strategy with Hierarchical Bag Representation for Distantly Supervised Relation Extraction</title>
+      <link>https://WinnieHAN.github.io/publication/rexin-2020-tohre/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://WinnieHAN.github.io/publication/rexin-2020-tohre/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -3,39 +3,293 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://WinnieHAN.github.io/courses/example/example1/</loc>
+    <lastmod>2019-05-05T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://WinnieHAN.github.io/courses/example/</loc>
+    <lastmod>2018-09-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://WinnieHAN.github.io/courses/example/example2/</loc>
+    <lastmod>2019-05-05T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://WinnieHAN.github.io/publication-type/1/</loc>
+    <lastmod>2020-11-01T13:42:19+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://WinnieHAN.github.io/publication/han-2020-survey/</loc>
+    <lastmod>2020-11-01T13:42:18+08:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://WinnieHAN.github.io/</loc>
+    <lastmod>2020-11-01T13:42:19+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://WinnieHAN.github.io/publication/han-2020-adversarial/</loc>
+    <lastmod>2020-11-01T13:42:18+08:00</lastmod>
   </url>
   
   <url>
     <loc>https://WinnieHAN.github.io/authors/</loc>
+    <lastmod>2020-11-01T13:42:19+08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://WinnieHAN.github.io/categories/</loc>
+    <loc>https://WinnieHAN.github.io/author/bo-pang/</loc>
+    <lastmod>2020-11-01T13:42:18+08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://WinnieHAN.github.io/author/nelson-bighetti/</loc>
+    <loc>https://WinnieHAN.github.io/author/erik-nijkamp/</loc>
+    <lastmod>2020-11-01T13:42:18+08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://WinnieHAN.github.io/post/</loc>
+    <loc>https://WinnieHAN.github.io/author/erxin-yu/</loc>
+    <lastmod>2020-11-01T13:42:18+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://WinnieHAN.github.io/author/hwee-tou-ng/</loc>
+    <lastmod>2020-11-01T13:42:18+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://WinnieHAN.github.io/author/kewei-tu/</loc>
+    <lastmod>2020-11-01T13:42:19+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://WinnieHAN.github.io/author/linqi-zhou/</loc>
+    <lastmod>2020-11-01T13:42:18+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://WinnieHAN.github.io/author/liwen-zhang/</loc>
+    <lastmod>2020-11-01T13:42:18+08:00</lastmod>
   </url>
   
   <url>
     <loc>https://WinnieHAN.github.io/publication_types/</loc>
+    <lastmod>2020-11-01T13:42:19+08:00</lastmod>
   </url>
   
   <url>
     <loc>https://WinnieHAN.github.io/publication/</loc>
+    <lastmod>2020-11-01T13:42:19+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://WinnieHAN.github.io/publication/songlin-2020-second/</loc>
+    <lastmod>2020-11-01T13:42:18+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://WinnieHAN.github.io/author/songlin-yang/</loc>
+    <lastmod>2020-11-01T13:42:18+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://WinnieHAN.github.io/publication/rexin-2020-tohre/</loc>
+    <lastmod>2020-11-01T13:42:18+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://WinnieHAN.github.io/publication/pang-2020-towards/</loc>
+    <lastmod>2020-11-01T13:42:18+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://WinnieHAN.github.io/author/wenjuan-han/</loc>
+    <lastmod>2020-11-01T13:42:19+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://WinnieHAN.github.io/author/yi-chang/</loc>
+    <lastmod>2020-11-01T13:42:18+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://WinnieHAN.github.io/author/yixian-liu/</loc>
+    <lastmod>2020-11-01T13:42:18+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://WinnieHAN.github.io/author/yong-jiang/</loc>
+    <lastmod>2020-11-01T13:42:19+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://WinnieHAN.github.io/author/yuan-tian/</loc>
+    <lastmod>2020-11-01T13:42:18+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://WinnieHAN.github.io/publication/jiang-etal-2019-regularization/</loc>
+    <lastmod>2020-11-01T13:42:19+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://WinnieHAN.github.io/author/ge-wang/</loc>
+    <lastmod>2020-11-01T13:42:19+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://WinnieHAN.github.io/publication/han-etal-2019-multilingual/</loc>
+    <lastmod>2020-11-01T13:42:18+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://WinnieHAN.github.io/talk/example/</loc>
+    <lastmod>2019-10-24T11:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://WinnieHAN.github.io/talk/</loc>
+    <lastmod>2019-10-24T11:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://WinnieHAN.github.io/post/</loc>
+    <lastmod>2019-09-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://WinnieHAN.github.io/post/writing-technical-content/</loc>
+    <lastmod>2019-07-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://WinnieHAN.github.io/courses/</loc>
+    <lastmod>2019-05-05T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://WinnieHAN.github.io/post/jupyter/</loc>
+    <lastmod>2019-09-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://WinnieHAN.github.io/slides/</loc>
+    <lastmod>2019-02-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://WinnieHAN.github.io/slides/example/</loc>
+    <lastmod>2019-02-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://WinnieHAN.github.io/author/wenjuan-han/</loc>
+    <lastmod>2019-09-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://WinnieHAN.github.io/publication-type/2/</loc>
+    <lastmod>2020-11-01T13:42:19+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://WinnieHAN.github.io/publication/han-2019-enhancing/</loc>
+    <lastmod>2020-11-01T13:42:18+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://WinnieHAN.github.io/publication/han-2019-latent/</loc>
+    <lastmod>2020-11-01T13:42:19+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://WinnieHAN.github.io/publication/han-2019-lexicalized/</loc>
+    <lastmod>2020-11-01T13:42:19+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://WinnieHAN.github.io/publication/jiang-han-tu-2017-emnlp-2017/</loc>
+    <lastmod>2020-11-01T13:42:19+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://WinnieHAN.github.io/publication/han-2017-dependency/</loc>
+    <lastmod>2020-11-01T13:42:19+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://WinnieHAN.github.io/publication/jiang-han-tu-2016-emnlp-2016/</loc>
+    <lastmod>2020-11-01T13:42:19+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://WinnieHAN.github.io/tag/deep-learning/</loc>
+    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://WinnieHAN.github.io/tag/demo/</loc>
+    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://WinnieHAN.github.io/project/external-project/</loc>
+    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://WinnieHAN.github.io/project/internal-project/</loc>
+    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://WinnieHAN.github.io/project/</loc>
+    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://WinnieHAN.github.io/tags/</loc>
+    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://WinnieHAN.github.io/tag/academic/</loc>
+    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://WinnieHAN.github.io/post/getting-started/</loc>
+    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://WinnieHAN.github.io/categories/</loc>
+    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://WinnieHAN.github.io/category/demo/</loc>
+    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://WinnieHAN.github.io/author/%E5%90%B3%E6%81%A9%E9%81%94/</loc>
+    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://WinnieHAN.github.io/tag/%E5%BC%80%E6%BA%90/</loc>
+    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://WinnieHAN.github.io/category/%E6%95%99%E7%A8%8B/</loc>
+    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
   </url>
   
 </urlset>

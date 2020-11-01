@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Liwen Zhang | Academic</title>
+    <link>https://WinnieHAN.github.io/author/liwen-zhang/</link>
+      <atom:link href="https://WinnieHAN.github.io/author/liwen-zhang/index.xml" rel="self" type="application/rss+xml" />
+    <description>Liwen Zhang</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://WinnieHAN.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Liwen Zhang</title>
+      <link>https://WinnieHAN.github.io/author/liwen-zhang/</link>
+    </image>
+    
+    <item>
+      <title>Adversarial Attack and Defense of Structured Prediction Models</title>
+      <link>https://WinnieHAN.github.io/publication/han-2020-adversarial/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://WinnieHAN.github.io/publication/han-2020-adversarial/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
